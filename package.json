@@ -1,0 +1,29 @@
+{
+  "author": "観月唯 <bestpika@users.noreply.github.com>",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "cheerio": "^1.0.0-rc.10",
+    "json5": "^2.2.0",
+    "minimist": "^1.2.5",
+    "superagent": "^6.1.0"
+  },
+  "description": "",
+  "devDependencies": {
+    "@types/google-apps-script": "^1.0.41",
+    "@types/superagent": "^4.1.14",
+    "eslint-plugin-googleappsscript": "^1.0.4",
+    "standard": "^16.0.4"
+  },
+  "homepage": "",
+  "license": "MIT",
+  "main": "index.js",
+  "name": "nodejs-gamagama-off-crawler",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bestpika/nodejs-gamagama-off-crawler.git"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "version": "1.0.0"
+}
